@@ -1,0 +1,17 @@
+body{
+	background-image:  url("hacked.jpg");
+	background-no-repeat: no-repeat;
+	background-position: centre;
+}
+
+h1{
+	color: green;
+	text-align: center;
+}
+h2{
+	color: green;
+}
+p{
+	color: GrayText;
+}
+
